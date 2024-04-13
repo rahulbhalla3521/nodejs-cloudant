@@ -1,5 +1,5 @@
-# UNRELEASED
-- [DEPRECATED] This library is end-of-life and no longer supported.
+# 4.5.2
+- Updated request package to cypress/request
 
 # 4.5.1 (2021-09-16)
 - [FIXED] Issue where new session cookies from pre-emptive renewal would not persist beyond the original session
